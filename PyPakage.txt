@@ -1,0 +1,15 @@
+good package:
+json
+sqlite3
+flask:micro web framework
+fast api:better than flask
+matplotlib:for plot and graph
+numpy:wrapper for matrix calculation
+virtualenv
+bs4:extract data from web pages
+selenium:automate web function
+opencv:everything for analyze photo
+psycopg2:connect database
+streamlit:data sciences show their reult in web
+pyqt,pyside:gui
+kivy:gui for desktop and mobilephone
