@@ -13,3 +13,4 @@ psycopg2:connect database
 streamlit:data sciences show their reult in web
 pyqt,pyside:gui
 kivy:gui for desktop and mobilephone
+flake8,black:for checking clean code and pep8
